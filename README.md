@@ -19,7 +19,7 @@ The **ZIM JS Chatbot** is an AI-powered assistant designed to enhance the user e
 ## How to Run the Chatbot
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url
+   git clone https://github.com/suhaJamal/ZIM-AI-Assistant-Enhancing-User-Experience-with-Machine-Learning.git
    ```
 2. Install dependencies:
    ```bash
