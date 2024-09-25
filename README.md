@@ -44,6 +44,7 @@ To update the chatbot for a new version of the ZIM JS library:
 1. Update the dataset with new documentation.
 2. Regenerate the FAISS vector index using `vector_db.py`.
 
+## Explore the live Chatbot
 Check out the live ZIM Chatbot that I developed using GPT-3.5 Turbo and Retrieval-Augmented Generation (RAG) on the ZIM JS website
 https://zimjs.com/bot/?fbclid=IwY2xjawFhJ89leHRuA2FlbQIxMAABHYYWATV-WPmgpP8zCnCY_aZLIEGE_11Y9J3dL1rfiOhbkXD-Hn1QUkazYw_aem_4_nf-vFDkSk9U-spIJnXUw
 
