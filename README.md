@@ -39,11 +39,11 @@ The **ZIM JS Chatbot** is an AI-powered assistant designed to enhance the user e
 - **Modify prompt template**: Edit `zim_ai_assistant_simple.py` to adjust the model's response behavior.
 - **Switch between public/private chatbot**: Modify settings on Hugging Face to change visibility.
 
-Check out the live ZIM Chatbot that I developed using GPT-3.5 Turbo and Retrieval-Augmented Generation (RAG) on the ZIM JS website
-https://zimjs.com/bot/?fbclid=IwY2xjawFhJ89leHRuA2FlbQIxMAABHYYWATV-WPmgpP8zCnCY_aZLIEGE_11Y9J3dL1rfiOhbkXD-Hn1QUkazYw_aem_4_nf-vFDkSk9U-spIJnXUw
-
 ## Updating the Dataset
 To update the chatbot for a new version of the ZIM JS library:
 1. Update the dataset with new documentation.
 2. Regenerate the FAISS vector index using `vector_db.py`.
+
+Check out the live ZIM Chatbot that I developed using GPT-3.5 Turbo and Retrieval-Augmented Generation (RAG) on the ZIM JS website
+https://zimjs.com/bot/?fbclid=IwY2xjawFhJ89leHRuA2FlbQIxMAABHYYWATV-WPmgpP8zCnCY_aZLIEGE_11Y9J3dL1rfiOhbkXD-Hn1QUkazYw_aem_4_nf-vFDkSk9U-spIJnXUw
 
